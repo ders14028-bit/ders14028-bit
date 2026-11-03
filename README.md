@@ -7,16 +7,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-esteban-rodriguez-suarez-787609388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ders14028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://orcalab.online"><img src="https://img.shields.io/badge/OrcaLab-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧭 Sobre mí
-
+ 
 - 🏗️ Me apasiona diseñar arquitecturas escalables y resolver problemas complejos.
-- 🏆 Líder técnico en dos proyectos académicos premiados.
+- 💻 Desarrollo full-stack, microservicios, IA y despliegue en AWS y Azure.
 - 🔐 Profundizando en ciberseguridad, forense digital y gestión de incidentes.
+- 🧠 Pensamiento analítico y crítico, con base sólida en algoritmos y teoría de la computación.
+- 🤝 Liderazgo, trabajo en equipo y comunicación efectiva.
+- ⚡ Adaptabilidad, orientación a resultados y trabajo bajo presión.
+- 📚 Aprendizaje continuo, creatividad e innovación.
 - 🌊 Fuera del código: astronomía, biología marina, basketball y dibujo.
 
 ---
@@ -33,11 +36,11 @@ Plataforma web colaborativa de investigación marina en tiempo real.
 ### 🏥 Sistema de triaje médico
 Modelo de **machine learning** en **Python** para apoyar la priorización de pacientes, desplegado en **AWS**.
 
-### ⚽ Gestión del torneo de fútbol universitario — 🥇 Mejor proyecto del curso
+### ⚽ Gestión del torneo de fútbol universitario — 
 Web para administrar el torneo de la universidad. Líder técnico, ciclo DevOps completo.
 `Java` `Spring Boot` `Microservicios` `Azure`
 
-### 🤝 Red social universitaria — 🥇 Primer puesto entre cursos
+### 🤝 Red social universitaria — 
 Plataforma para facilitar la socialización entre estudiantes, construida por todo el curso. Líder técnico.
 `Java` `Spring Boot` `Microservicios` `Azure`
 
