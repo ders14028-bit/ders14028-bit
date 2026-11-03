@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Daniel 👋</h1>
+<h1 align="center">Daniel Esteban Rodrigues Suarez</h1>
 <p align="center">
   Estudiante de Ingeniería de Sistemas (9º semestre) · Escuela Colombiana de Ingeniería Julio Garavito<br>
   Arquitecturas escalables · Microservicios · Cloud · Ciberseguridad
@@ -103,8 +103,8 @@ Modelo de IA que clasifica mensajes como positivos, negativos o neutros.
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=transparent">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ders14028-bit&show_icons=true&hide_border=true&theme=transparent">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ders14028-bit&layout=compact&hide_border=true&theme=transparent">
 </p>
 
 ---
