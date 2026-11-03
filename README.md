@@ -36,11 +36,11 @@ Plataforma web colaborativa de investigación marina en tiempo real.
 ### 🏥 Sistema de triaje médico
 Modelo de **machine learning** en **Python** para apoyar la priorización de pacientes, desplegado en **AWS**.
 
-### ⚽ Gestión del torneo de fútbol universitario — 
+### ⚽ Gestión del torneo de fútbol universitario — TECHCUP
 Web para administrar el torneo de la universidad. Líder técnico, ciclo DevOps completo.
 `Java` `Spring Boot` `Microservicios` `Azure`
 
-### 🤝 Red social universitaria — 
+### 🤝 Red social universitaria — PATRICIA
 Plataforma para facilitar la socialización entre estudiantes, construida por todo el curso. Líder técnico.
 `Java` `Spring Boot` `Microservicios` `Azure`
 
