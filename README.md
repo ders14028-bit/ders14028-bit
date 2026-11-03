@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Esteban Rodrigues Suarez</h1>
 <p align="center">
   Estudiante de Ingeniería de Sistemas (9º semestre) · Escuela Colombiana de Ingeniería Julio Garavito<br>
-  Arquitecturas escalables · Microservicios · Cloud · Ciberseguridad
+  Arquitecturas escalables · Microservicios · Cloud · Ciberseguridad · Bases de datos · Fullstack · Proyectos
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 🚀 Proyectos destacados
 
-### 🐋 [OrcaLab](https://orcalab.online)
+### 🐋 OrcaLab
 Plataforma web colaborativa de investigación marina en tiempo real.
 - Microservicios en **Java/Spring Boot** y **Python**
 - Chat y marcadores de avistamiento en tiempo real vía **WebSocket**
